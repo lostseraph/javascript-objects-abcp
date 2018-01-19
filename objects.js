@@ -1,2 +1,2 @@
-var playlist = { Lady Gaga: 'Born This Way' }
+var playlist = { LadyGaga: 'Born This Way' }
 
